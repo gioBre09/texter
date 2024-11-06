@@ -1,0 +1,7 @@
+
+
+apri power shell
+----------------------------------------------------------------------------------------------------------------
+comandi: cd C:\Users\Admin\Desktop\coding\texter (percorso file in cui ce la cartella)
+         
+         python digitazione_lenta.py
